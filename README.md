@@ -1,3 +1,3 @@
 ### Integrantes
 
-Dennis Díaz, Martín Ayala
+Dennis Díaz, Martín Ayala, Mateo Tacuri
